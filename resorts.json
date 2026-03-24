@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Åre",
+    "slug": "re",
+    "maps": [
+      {
+        "name": "Åre by",
+        "slug": "re-by",
+        "mapImage": "åre.png"
+      }
+    ]
+  }
+]
