@@ -1,13 +1,13 @@
-[
-  {
-    "name": "ÃÂre",
-    "slug": "re",
-    "maps": [
-      {
-        "name": "Åre by",
-        "slug": "re-by",
-        "mapImage": "åre.png"
-      }
-    ]
-  }
-]
+ [
+    {
+      "name": "Åre",
+      "slug": "are",
+      "maps": [
+        {
+          "name": "Åre by",
+          "slug": "are-by",
+          "mapImage": "are.png"
+        }
+      ]
+    }
+  ]
