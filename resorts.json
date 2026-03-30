@@ -9,5 +9,16 @@
         "mapImage": "are.png"
       }
     ]
+  },
+  {
+    "name": "Bösjön",
+    "slug": "bosjon",
+    "maps": [
+      {
+        "name": "Husen",
+        "slug": "husen",
+        "mapImage": "bösjön.png"
+      }
+    ]
   }
 ]
