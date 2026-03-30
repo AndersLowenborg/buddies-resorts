@@ -9,27 +9,5 @@
         "mapImage": "are.png"
       }
     ]
-  },
-  {
-    "name": "Åre",
-    "slug": "re",
-    "maps": [
-      {
-        "name": "Åre by",
-        "slug": "re-by",
-        "mapImage": "are.png"
-      }
-    ]
-  },
-  {
-    "name": "Bösjön",
-    "slug": "b-sj-n",
-    "maps": [
-      {
-        "name": "Husen",
-        "slug": "husen",
-        "mapImage": "bosjon.png"
-      }
-    ]
   }
 ]
