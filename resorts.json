@@ -20,5 +20,16 @@
         "mapImage": "bösjön.png"
       }
     ]
+  },
+  {
+    "name": "Familjen",
+    "slug": "familjen",
+    "maps": [
+      {
+        "name": "vardag",
+        "slug": "vardag",
+        "mapImage": "1775034577757.png"
+      }
+    ]
   }
 ]
